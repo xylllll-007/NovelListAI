@@ -1,6 +1,6 @@
 {
   "Product": {
-    "name": "ScriptCraft",
+    "name": "WaytoAGI",
     "solgan": "WaytoAGI助力你的AI梦。"
   },
   "LandingPage": {
@@ -50,11 +50,11 @@
       }
     },
     "Header": {
-      "workflow": "工作流程",
-      "features": "功能",
+      "workflow": "AIPO",
+      "features": "报错集合",
       "about": "关于我们",
-      "pricing": "定价",
-      "signUp": "注册"
+      "pricing": "成功集合",
+      "signUp": "成为社区一员"
     },
     "Footer": {
       "about": "关于我们",
